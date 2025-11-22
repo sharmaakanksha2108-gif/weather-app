@@ -1,17 +1,17 @@
 # weather-app
 
 ## Overview of the project
-Created a python program to have a input of city and giving the output-
-  1)temperature
-  2)weather condition
-  3)sunset and sunrise time
-  4)5 days forecast
-  5)line graph with maximun and minimun temperature of 5 days
+   Created a python program to have a input of city and giving the output-
+   1)temperature
+   2)weather condition
+   3)sunset and sunrise time
+   4)5 days forecast
+   5)line graph with maximun and minimun temperature of 5 days
 
 ## Features
- 1)by entering city you can see many things related to weather 
- 2)showing maximun and minimunum temperature of 5 days as a line graph
- 3)shows sunset and sunrise time of the city
+    1)by entering city you can see many things related to weather 
+    2)showing maximun and minimunum temperature of 5 days as a line graph
+    3)shows sunset and sunrise time of the city
 
 ## Technologies/tools used 
 ### 1)Weather Data APIs
