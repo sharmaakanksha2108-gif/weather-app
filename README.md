@@ -1,5 +1,6 @@
-## weather-aap
+# weather-app
 
+## Overview of the project
 Created a python program to have a input of city and giving the output-
   1)temperature
   2)weather condition
@@ -13,15 +14,15 @@ Created a python program to have a input of city and giving the output-
  3)shows sunset and sunrise time of the city
 
 ## Technologies/tools used 
-#  1)Weather Data APIs
+### 1)Weather Data APIs
   OpenWeather API
   WeatherAPI.com
-# 2)Language
+### 2)Language
     Python
-# 3)Libraries and tools
+### 3)Libraries and tools
     Matplotlib
     DataTime
- # 4)Platform
+ ### 4)Platform
      Jupyter Notebook
 
 ## Steps to install and run the project
