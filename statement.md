@@ -15,6 +15,6 @@
     4)farmers to see the weather
 
 ## High-level features
-   1)give weather of any city 
-   2)gives next 5 days forecast
-   3)simple and easy coding
+    1)give weather of any city 
+    2)gives next 5 days forecast
+    3)simple and easy coding
