@@ -31,6 +31,11 @@ Created a python program to have a input of city and giving the output-
    3)"https://api.openweathermap.org/data/2.5/weather" given data
    4)downloading the code to folder
    5)uploading it to my repository
+
 ## Instructions for testing
    enter a valid city name
+
+## Screenshot
+   <img width="832" height="914" alt="image" src="https://github.com/user-attachments/assets/9b92ca79-7c29-4f7e-80f3-2c96a9cfd0f8" />
+
 
