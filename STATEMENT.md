@@ -1,5 +1,5 @@
 ## Problem Statement
-    People need to know the weather so they can plan thier day according to it. So we need a app to give a rough idea of weather of today and next few days. An app to help people to have a prefect plan for  their days
+     People need to know the weather so they can plan thier day according to it. So we need a app to give a rough idea of weather of today and next few days. An app      to help people to have a prefect plan for  their days
 
 ## Scope of this project
     this program will show 
